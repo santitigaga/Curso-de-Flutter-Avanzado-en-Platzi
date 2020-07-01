@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "319240160364",
+    "firebase_url": "https://celtic-origin-192416.firebaseio.com",
+    "project_id": "celtic-origin-192416",
+    "storage_bucket": "celtic-origin-192416.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319240160364:android:1bdc718d741eb280630449",
+        "android_client_info": {
+          "package_name": "co.com.bancolombia.demo_flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319240160364-5mr58mu2c0ins8eqhet9t9cgrr3gs4pf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-_7VGNt5F_KSueYOpjnfOXcG-nLhQf9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319240160364-5mr58mu2c0ins8eqhet9t9cgrr3gs4pf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

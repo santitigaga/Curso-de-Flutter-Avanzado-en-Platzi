@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1099210192995-it34f6cng0164qmh7115hkrf6lgdjp3i.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1099210192995-it34f6cng0164qmh7115hkrf6lgdjp3i</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1099210192995-jncqh9jl32qodkllg9u6rrffb0omit64.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDHBwbxynqChzOjPSlBtkMINuh3kWLYfgE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1099210192995</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.anncode.platzitripsapp</string>
+	<key>PROJECT_ID</key>
+	<string>prueba-flutter-c48ba</string>
+	<key>STORAGE_BUCKET</key>
+	<string>prueba-flutter-c48ba.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1099210192995:ios:b2b94bab45c2fa81a4a056</string>
+	<key>DATABASE_URL</key>
+	<string>https://prueba-flutter-c48ba.firebaseio.com</string>
+</dict>
+</plist>
